@@ -1,0 +1,18 @@
+# Local machine and editor state
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Generated build outputs
+/dist/
+/build/

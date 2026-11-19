@@ -1,0 +1,3 @@
+interface:
+  display_name: "Dataset and Benchmark Engineering"
+  short_description: "构建或实质性扩展科研数据集、Benchmark、标注、评估任务或知识资产，覆盖来源版本、质量核验、测试有效性、数据泄漏、许可、信息可见性和发布边界；简"

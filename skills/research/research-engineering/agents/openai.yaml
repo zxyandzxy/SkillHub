@@ -1,0 +1,3 @@
+interface:
+  display_name: "Research Engineering"
+  short_description: "实现科研方法与 Baseline、复现代码、执行 Pilot 或经授权的正式实验、诊断实验故障并保存可追溯原始结果；重视协议保真、稳定实验身份、失败记"

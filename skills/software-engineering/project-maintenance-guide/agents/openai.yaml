@@ -1,0 +1,3 @@
+interface:
+  display_name: "Project Maintenance"
+  short_description: "梳理与治理长期软件仓库中重复、失效或过时的文档、测试、脚本、配置、生成物和研究产物，决定保留、更新、合并、隔离、归档或安全删除；适用于有明确范围的项目"

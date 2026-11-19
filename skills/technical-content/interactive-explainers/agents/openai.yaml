@@ -1,0 +1,3 @@
+interface:
+  display_name: "Interactive Explainers"
+  short_description: "设计、实现或检查通过滑块、按钮、可视状态、计算和动画解释技术机制的交互式教学内容"

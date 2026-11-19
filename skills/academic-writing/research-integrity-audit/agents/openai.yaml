@@ -1,0 +1,3 @@
+interface:
+  display_name: "Research Integrity Audit"
+  short_description: "核对学术稿件的引用、主张、实验数字、样本量、指标、统计单位、图表、配置和原始结果，发现可定位的证据不一致"

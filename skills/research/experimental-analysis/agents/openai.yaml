@@ -1,0 +1,3 @@
+interface:
+  display_name: "Experimental Analysis"
+  short_description: "分析真实科研实验结果与消融，核查任务单位、分母、配对、失败/缺失和统计口径，回答 RQ、解释效应与不确定性、检查机制证据及反例，形成有边界的论文结论；"

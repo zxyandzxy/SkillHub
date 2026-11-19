@@ -1,0 +1,3 @@
+interface:
+  display_name: "Clean Code"
+  short_description: "编写、修改或重构代码时采用小而完整的改动、适当抽象、清晰职责和实际证据；适用于编码实现、局部重构和变更后自查"

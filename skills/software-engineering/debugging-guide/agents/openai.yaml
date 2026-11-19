@@ -1,0 +1,3 @@
+interface:
+  display_name: "Systematic Debugging"
+  short_description: "程序报错、测试失败、偶发故障、功能回归或异常性能现象需要定位原因和修复时使用，遵循复现、观测、可证伪假设、最小修复与回归验证"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Code Review"
+  short_description: "对代码、Pull Request、提交或工作区差异进行只读评审，检查是否符合真实需求、引入哪些工程风险，以及测试与交付证据是否充分；也用于核查收到的评"

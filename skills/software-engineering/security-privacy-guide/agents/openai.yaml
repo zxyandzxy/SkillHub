@@ -1,0 +1,3 @@
+interface:
+  display_name: "Security and Privacy"
+  short_description: "功能触及认证授权、用户数据、文件和数据库、外部接口、敏感日志、秘密、依赖风险或个人隐私时使用"

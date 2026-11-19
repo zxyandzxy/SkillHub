@@ -1,0 +1,3 @@
+interface:
+  display_name: "Paper Revision and Response"
+  short_description: "分析期刊或会议审稿意见、确定论文修改策略、检查补充证据、生成作者可审阅的 LaTeX 原文/改后对照与双语译文，并撰写逐条审稿回复"

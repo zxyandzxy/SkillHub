@@ -1,0 +1,3 @@
+interface:
+  display_name: "Performance Engineering"
+  short_description: "当用户要求定义性能目标、分析延迟和吞吐量、建立基线、使用 profiler 定位瓶颈或证明优化收益时使用"

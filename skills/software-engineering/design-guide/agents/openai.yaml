@@ -1,0 +1,3 @@
+interface:
+  display_name: "System Design"
+  short_description: "设计软件新模块、重要接口和数据边界，审查真实架构、比较重大方案、安排可验证实施增量；用于系统设计、架构演进和跨阶段开发计划"

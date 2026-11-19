@@ -1,0 +1,3 @@
+interface:
+  display_name: "Project Handoff"
+  short_description: "开发任务跨会话、长时间中断、换 Agent、阶段交接或需要恢复 Git 工作现场时使用，提取关键决定、真实进度、验证状态与下一步，并对照实际仓库核查"

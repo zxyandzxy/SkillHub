@@ -1,0 +1,3 @@
+interface:
+  display_name: "Requirements Guide"
+  short_description: "产品目标、真实用户场景、业务规则、范围或验收条件存在影响实现的重要歧义时使用，调查事实、按决定依赖澄清关键问题，并形成可确认和可验证的需求"
