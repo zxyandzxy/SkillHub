@@ -22,6 +22,22 @@ research/<category>/<name>/RESEARCH.md
 
 `SKILL.md` 说明何时使用、如何执行及任务边界；`references/` 中的专业细节按需读取。对应的 `RESEARCH.md` 说明该领域的实际问题、相关证据和方法选择，并在末章解释这些认识如何形成 Skill 的规则。研究文档面向读者，平时执行任务无需全部加载。
 
+## 外部 Skills 与工具推荐
+
+`external-skills/` 提供按任务分类的第三方 Skill / 工具 **链接索引**，共收录 **141 项**。这些资源不属于本仓库已安装的 Skills，也未复制其源码。Stars 是 GitHub 仓库级参考指标，不是 Skill 效果评分。
+
+| 分类 | 外部资源索引 | 数量 |
+| --- | --- | ---: |
+| 科研方法 | [查看资源](external-skills/01-research-methods.md) | 12 |
+| 论文写作与审查 | [查看资源](external-skills/02-paper-writing-review.md) | 13 |
+| Agent 软件工程工作流 | [查看资源](external-skills/03-agent-engineering-workflows.md) | 21 |
+| 软件验证与审查 | [查看资源](external-skills/04-software-verification-review.md) | 27 |
+| 技术演示制作 | [查看资源](external-skills/05-technical-demos.md) | 14 |
+| 科研图形工具链 | [查看资源](external-skills/06-research-figures.md) | 23 |
+| 科研资料与 PPT 工具链 | [查看资源](external-skills/07-research-resources-presentations.md) | 31 |
+
+外部资源主要服务于本仓库已有的四个方向：技术内容表达、学术成果、科研工作流、软件工程。具体能力、依赖与质量提示详见各分类文档；使用前请阅读第三方原始说明并按其许可证和服务条款执行。
+
 ## 让 Agent 使用 SkillHub
 
 **方式一：安装到支持 Skills 的 Agent 环境。** 从本仓库复制整个 `skills/<category>/<name>/` 目录到该 Agent 所支持的 Skill 安装位置，保留 `SKILL.md`、`references/` 及其他配套文件。不同 Agent 的路径、注册与自动触发机制可能不同，以目标环境为准。
